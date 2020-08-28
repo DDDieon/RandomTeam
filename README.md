@@ -1,7 +1,7 @@
 #Red or Blue
 ##해당 프로젝트는 바닐라자바스크립트로 제작되었습니다.
-index.html을 실행하시거나 codepen으로 확인해주세요.
-주소는 https://codepen.io/dddieon/pen/dyMXjxK
+#####index.html을 실행하시거나 codepen으로 확인해주세요.
+#####주소는 https://codepen.io/dddieon/pen/dyMXjxK
 ### 사용방법 (Usage)
 사용방법은 간단합니다. 팀원명을 입력하고 매칭 버튼을 눌러서 랜덤으로 조를 짜보세요.
 
